@@ -9,6 +9,7 @@ import org.springframework.stereotype.Component;
 public class Bot {
     private static String bot_id=""; //机器人id
     private static String bot_secret=""; //机器人secret
+    private static String pub_key="";//机器人的pub_key
 
     public static class Bots{
         public static String getBot_id() {return bot_id;}
