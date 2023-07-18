@@ -9,7 +9,7 @@ mhy大别野java版sdk，第一次做应该算模板吧
 public class Bot {
     private static String bot_id=""; //机器人id
     private static String bot_secret=""; //机器人secret
-    private static String pub_key="";//机器人的pub_key
+    private static String pub_key="";//机器人的pub_key(pub_key直接复制粘贴,无需注意格式)
 ```
 #  resources->application.yml配置端口
 ```java
