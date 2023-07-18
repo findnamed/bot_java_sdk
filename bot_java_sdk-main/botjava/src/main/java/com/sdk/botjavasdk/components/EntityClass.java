@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class EntityClass {
-    //@机器人(id),颜色长度，颜色起始点
+    //@机器人(id),长度，起始点
     public static JSONObject mentioned_robot(String bot_id,int length,int offset){
         JSONObject params=new JSONObject();
         params.put("type","mentioned_robot");
