@@ -1,3 +1,4 @@
+# 建议查看master分支[master分支已更新]
 # bot_java_sdk
 mhy大别野java版sdk，第一次做应该算模板吧
 
