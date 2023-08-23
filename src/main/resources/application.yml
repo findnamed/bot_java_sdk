@@ -1,0 +1,18 @@
+#服务端口配置(填自己的)
+server:
+  port: 80
+spring:
+  mvc:
+    static-path-pattern: /**
+  main:
+    allow-circular-references: true
+#机器人的独立配置
+mys:
+  # BotID(填你自己的)
+  id: bot_XXXX
+  # 机器人令牌
+  secret: XXXX
+  #公钥（用一行表示）
+  pubKey: XXXXX
+  #BOT的名字
+  name: XXXX
